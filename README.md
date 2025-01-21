@@ -10,3 +10,8 @@ toda la informacion necesaria.
 * Uso
 * Contribución
 ### Caracteristicas
+* Busequeda por titulo
+* Visualizacion de la lista de libros registrados de la busqueda.
+* Visualizacion de la lista de autores registrados
+* Filtrado de autores vivos en un año especifico
+* Filtrado de libros por idioma [en - es]
