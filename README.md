@@ -41,5 +41,6 @@ Las contribuciones son bienvenidas. Si deseas contribuir, por favor sigue estos 
 3. Realiza tus cambios y haz commit (git commit -m 'Agregada nueva característica').
 4. Haz push a la rama (git push origin feature/nueva-caracteristica).
 5. Abre un Pull Request.
- [!NOTE]
-Material educativo hecho a base de las clase impartidas por ALURA LATAM.
+
+> [!NOTE]
+> Material educativo hecho a base de las clase impartidas por ALURA LATAM.
